@@ -1,5 +1,8 @@
-Project Benson - MTA Turnstile Data
+MTA Turnstile Data Analysis
 --
+## Project 1 at Metis (Codename: Benson)
+
+In the first week, students work in small groups using MTA turnstile data to estimate the volume of people on the street, so that (theoretical) non-profits and companies could deploy street teams efficiently. We provide the data and guide students through exploratory data analysis and plotting so they can focus on new tools, brainstorming, and communication.
 
 ## Team 3 Team Members:
  * James Evers
@@ -8,8 +11,13 @@ Project Benson - MTA Turnstile Data
  * Dan Yawitz
 
 ## Contents
-You can find the pdf presentation in this repository, and an in-depth analysis
-on my [blog post].
+
+This repo contains:
+
+- [PDF of our team's presentation](https://github.com/ozzieliu/MTA-Turnstile-Analysis-for-WTWY/blob/master/Team%203%20Presentation.pdf)
+- and [Jupyter Notebook](https://github.com/ozzieliu/MTA-Turnstile-Analysis-for-WTWY/blob/master/MTA%20Turnstile%20Analysis.ipynb) of related challange questions
+- For in-depth analysis of this project, you can find it
+on my [blog post](http://ozzieliu.com/2016/02/22/mta-data-analysis-for-wtwy-part-1/).
 
 ## Project Approach
 Our team approached our client's project by looking at 3 particular data points
